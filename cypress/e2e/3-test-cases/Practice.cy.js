@@ -9,6 +9,7 @@ describe("Tracalorie - Meal Tracking", () => {
           { name: "green curry", calories: 200 },
           { name: "fried rice", calories: 300 },
           { name: "spring rolls", calories: 150 }
+          
         ];
       
         let i;
